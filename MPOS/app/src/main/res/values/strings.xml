@@ -1,3 +1,17 @@
 <resources>
     <string name="app_name">M-POS</string>
+    <string name="user_name">User Login</string>
+    <string name="password">Password</string>
+    <string name="remember">Remember Me</string>
+    <string name="login">Login</string>
+    <string name="drawer_open">Open</string>
+    <string name="drawer_close">Close</string>
+    <array name="menu_array">
+        <item>Periodic E-Reciept</item>
+        <item>Last E-Reciept</item>
+        <item>Reconcilation Details</item>
+        <item>Non-Recon Terminal</item>
+        <item>Panda Store</item>
+        <item>Periodic NAQD E-Reciept</item>
+    </array>
 </resources>
